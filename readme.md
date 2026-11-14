@@ -34,5 +34,5 @@ The app extracts text from PDF resumes, calculates a match score using TF-IDF + 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-resume-matcher.git
+git clone https://github.com/dineshkumarmurugan2005-oss/smart-resume-matcher.git
 cd smart-resume-matcher
